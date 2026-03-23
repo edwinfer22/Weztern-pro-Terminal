@@ -1,5 +1,10 @@
 # Mi Terminal Pro (Estilo Matrix) 🚀
 
+
+<p align="center">
+<img src="terminal3.jpg" alt="Mi Terminal Matrix" width="800">
+</p>
+
 Haz clic derecho sobre el archivo README.md -> Edit with Notepad++.
 Borra lo que haya y pega este diseño (puedes cambiar lo que quieras):
 
